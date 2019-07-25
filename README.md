@@ -17,5 +17,5 @@ Badminton Hall Appointment tool
 
 new badminton是基于qt开发的，原来的是其他人写的，现在已经不能使用，可以参考。
 
-
+![image](https://github.com/apxlin/SEU-Badminton-Hall-Appointment/blob/master/badminton.png)
 
