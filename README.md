@@ -15,3 +15,7 @@ Badminton Hall Appointment tool
 
 预约部分，这部分主要是报文的构成，主要是日期，时间，类型，几个简单的参数。
 
+new badminton是基于qt开发的，原来的是其他人写的，现在已经不能使用，可以参考。
+
+
+
