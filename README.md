@@ -17,5 +17,19 @@ Badminton Hall Appointment tool
 
 new badminton是基于qt开发的，原来的是其他人写的，现在已经不能使用，可以参考。
 
+Southeast University Badminton Hall Reservation Tool
+
+The badminton hall has been full of reservations, so I wrote a tool to make it easy to book a venue
+
+The entire software is divided into three parts, login, authentication, appointment
+
+The first is to log in. The venue reservation site itself is relatively secure. I ca n’t think of any way to log in in a short time, but Southeast University itself has some original website entrances. The new version of the entrance is not easy to access, but the original one is very easy to access.
+
+In the verification part, the venue reservation webpage added a verification code when making an appointment, but it is relatively simple. It is a basic digital verification code. I found basic digital pictures from the Internet, plus the image recognition library of python itself, which easily cracked the verification code. The specific process can be seen in the source code.
+
+Appointment part, this part is mainly the composition of the message, mainly the date, time, type, a few simple parameters.
+
+New badminton is developed based on qt, originally written by others, it is no longer available, you can refer to it....
+
 ![image](https://github.com/apxlin/SEU-Badminton-Hall-Appointment/blob/master/badminton.png)
 
